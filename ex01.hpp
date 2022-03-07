@@ -9,5 +9,4 @@ void multiples (T& sum, T x, T n)
     for (int i = 1; i <= n; ++i){
         sum += i*x;
     }
-    return sum;
 }
